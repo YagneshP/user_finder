@@ -1,0 +1,27 @@
+.Navbar {
+	background-color: rgb(240, 140, 10);
+}
+
+.Navbar_Logo {
+	width: 30%;
+	padding: 15px 10px;
+}
+
+.Navbar_item {
+	color: rgb(226, 26, 26);
+}
+
+a {
+	text-decoration: none;
+}
+@media screen and (max-width:580px){
+	.Form{
+		margin-top: 10px;
+	}
+	.FormInput{
+		margin-top: 10px;
+	}
+	.FormButton{
+		margin-top: 10px;
+	}
+}
